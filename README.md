@@ -1,4 +1,4 @@
-# Go-ip-and-server-fetcher
+# Go ip and server fetcher
 Command line application created in Go that returns the IP or the server name of a given address.
 
 ## Usage
